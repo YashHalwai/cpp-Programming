@@ -1,0 +1,63 @@
+Course Logistics - - >
+
+Is C++ hard to learn?
+
+Yes, C++ is hard to learn both for people who're completely new to programming and to others who've programmed before but never specifically done low-level programming before (like C or Assembly).
+
+But there's hope.
+
+I'll breakdown a few areas you'll need in order to master C++ fast but let's talk timeline first.
+
+If you're completely new to programming, it'll take at least 3 months to learn C++. That's working at least 2 to 3 hours each day. However, if you've programmed before, working at least an hour a day, it'll take 1 to 3 months to grasp the basics.
+
+And if you want to build mastery in C++, it'll take at least 2 years.
+
+
+C++ for beginners and how to approach it
+
+Are you an absolute beginner programmer?
+
+If yes, it's a bad idea if you're completely new to programming and you turn to C++ as your first language.
+
+Particularly if you're a self-taught programmer.
+
+Why?
+
+Because there are better entry-point languages. As an absolute beginner you're better off starting with something like Python or JavaScript.
+
+If you're in school and you have no choice – many schools still start students off with C++ as their first language, which drives students away – just learn as much of C++ as you can.
+
+But don't give up if you end up not liking it.
+
+There are many other programming languages that can keep you excited about programming in general.
+
+If C++ doesn't do it for you, try others.
+
+What you'll need to learn the basics of C++
+
+Like any programming language, you need to know how to:
+
+declare variables
+collect user input
+store information
+repeat an action through loops
+write functions to repeat blocks of code
+These are standard.
+
+And if you already know how to code, it won't be a big deal.
+
+Maybe a little annoyance here and there, especially arguments among C++ fans about using ; or whether it should be completely dropped.
+
+It's a fun debate to have. But don't get too hung up on it.
+
+Current programmers looking to learn C++
+
+If you're a C programmer, you'll end up loving C++.
+
+But if you're not, C++ will likely still be a hassle. Even if you already know how to code, C++ is a beast to handle especially if you've never coded in a low level language like C or assembly.
+
+For instance, most people who code in Python, Laravel, JavaScript don't ever have to think of memory management.
+
+So C++ can come off as a shock because of all the pointers and constant memory management learnings. They may seem unnecessary but you absolutely need to master them.
+
+Happy Coding :)

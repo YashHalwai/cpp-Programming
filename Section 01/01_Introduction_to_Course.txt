@@ -1,0 +1,20 @@
+Introduction to Course - - >
+
+The first step in learning Programming is to ask yourself why do you want to learn it.'
+This is the most important and underestimated step in learning Programming. 
+If you do not have a good and substantial reason for Programming, then probably you will lose motivation and quit very easily.
+
+
+Let’s have a look at all these steps that you need to follow to learn and master a programming language:
+
+Select a Programming Language as per your requirements
+
+Get Your Fundamentals Clear
+
+Move from Basics to the Advanced Level
+
+Practice, Practice, and Practice
+
+Build Minor and Major Projects
+
+Share your Code & Knowledge with Others
