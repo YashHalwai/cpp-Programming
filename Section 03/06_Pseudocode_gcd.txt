@@ -1,0 +1,20 @@
+Find GCD of two numbers A & B
+
+Pseudocode:
+
+Read A, B
+
+i = 1
+
+while i <= min(A,B)
+{
+    if A%i == 0 && B%i == 0
+    {
+        gcd = i
+    }
+    i = i + 1
+
+}
+
+print gcd
+exit

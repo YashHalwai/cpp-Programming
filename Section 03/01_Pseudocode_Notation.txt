@@ -1,0 +1,37 @@
+
+
+How to write a Pseudo Code?
+
+Pseudo code is a term which is often used in programming and algorithm based fields. It is a methodology that allows the programmer to represent the implementation of an algorithm. Simply, we can say that it’s the cooked up representation of an algorithm. Often at times, algorithms are represented with the help of pseudo codes as they can be interpreted by programmers no matter what their programming background or knowledge is. Pseudo code, as the name suggests, is a false code or a representation of code which can be understood by even a layman with some school level programming knowledge.
+
+How to write a Pseudo-code?
+
+Arrange the sequence of tasks and write the pseudocode accordingly.
+Start with the statement of a pseudo code which establishes the main goal or the aim.
+
+Example:
+
+This program will allow the user to check
+the number whether it's even or odd.
+
+The way the if-else, for, while loops are indented in a program, indent the statements likewise, as it helps to comprehend the decision control and execution mechanism. They also improve the readability to a great extent.
+
+Example:
+
+if "1"
+    print response
+        "I am case 1"
+
+if "2"
+    print response
+        "I am case 2"
+Use appropriate naming conventions. The human tendency follows the approach to follow what we see. If a programmer goes through a pseudo code, his approach will be the same as per it, so the naming must be simple and distinct.
+
+Use appropriate sentence casings, such as CamelCase for methods, upper case for constants and lower case for variables.
+Elaborate everything which is going to happen in the actual code. Don’t make the pseudo code abstract.
+
+Use standard programming structures such as ‘if-then’, ‘for’, ‘while’, ‘cases’ the way we use it in programming.
+Check whether all the sections of a pseudo code is complete, finite and clear to understand and comprehend.
+
+Don’t write the pseudo code in a complete programmatic manner. It is necessary to be simple to understand even for a layman or client, hence don’t incorporate too many technical terms.
+

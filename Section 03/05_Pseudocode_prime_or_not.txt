@@ -1,0 +1,17 @@
+Prime or not
+
+Read N
+i = 2
+
+while i < N
+{
+    if N % i == 0
+    {
+        print "Not prime"
+        exit
+    }
+    i = i + 1
+}
+
+print "Prime"
+exit
